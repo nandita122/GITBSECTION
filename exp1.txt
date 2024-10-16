@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Experiment 1 file has been become the file for experiment 5
+=======
+New file
+experiment 1
+>>>>>>> 80be38d (new commit)
